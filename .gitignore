@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+.ipynb_checkpoints/
+.DS_Store
+chroma_db/
+*.joblib
